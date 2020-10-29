@@ -209,15 +209,14 @@
 .address {
   display: flex;
   flex-direction: row;
-  padding-right: 708px;
-  padding-top: 50px;
-  margin-left: 133px;
+  padding-top: 51px;
+  margin-left: 130px;
  }
 
 .address__pic {
   height: 22px;
   width: 15px;
-  margin-right: 8px;
+  margin-right: 9px;
  }
 
 .address__txt {
@@ -228,13 +227,14 @@
 .phone {
   display: flex;
   flex-direction: row;
+  padding-left: 708px;
  }
 
 .contacts {
   display: flex;
   flex-direction: column;
   margin-right: 18px;
-  padding-top: 52px;
+  padding-top: 48px;
  }
 
 .contacts__phone-one {
@@ -256,7 +256,7 @@
 .contacts__image-wts {
   width: 52px;
   height: 52px;
-  margin-right: 18px;
+  margin-right: 16px;
   padding-top: 46px;
  }
 
